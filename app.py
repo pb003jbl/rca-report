@@ -6,7 +6,7 @@ import time as t
 
 
 # Streamlit App Title
-st.title("RCA AI Assistant")
+st.title("Agentic AI Report Writer")
 
 doc = """
     Root Cause Analysis
